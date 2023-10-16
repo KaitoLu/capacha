@@ -9,6 +9,7 @@ class LibsApplicationTests {
 	@Test
 	void contextLoads() {
 		System.out.println(captcha.generateCaptcha());
+		System.out.println(captcha.generateCaptcha());
 	}
 
 }
