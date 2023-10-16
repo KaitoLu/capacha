@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: com.systex.libs.captcha
+Class-Path: spring-beans-6.0.12.jar spring-core-6.0.12.jar spring-jcl-6.
+ 0.12.jar jakarta.annotation-api-2.1.1.jar log4j-api-2.20.0.jar spring-b
+ oot-3.1.4.jar jul-to-slf4j-2.0.9.jar logback-classic-1.4.11.jar spring-
+ expression-6.0.12.jar snakeyaml-1.33.jar spring-boot-starter-3.1.4.jar 
+ spring-context-6.0.12.jar spring-boot-starter-logging-3.1.4.jar spring-
+ aop-6.0.12.jar slf4j-api-2.0.9.jar logback-core-1.4.11.jar spring-boot-
+ autoconfigure-3.1.4.jar log4j-to-slf4j-2.20.0.jar
+
